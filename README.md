@@ -1,2 +1,2 @@
 # nslsVikes.me
-Official Site for the CSU Chapter of the NSLS
+ Official Landing Page for the CSU NSLS Chapter
