@@ -132,6 +132,7 @@ dist
 
 # my ignored
 desktop.ini
+docs/
 *.ps1
 .cache/
 .env
