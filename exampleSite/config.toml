@@ -4,7 +4,6 @@ paginate = 6
 summarylength = 10
 title = "Blogge | Personal Blog Template"
 theme = "blogge-hugo-theme"
-# publishDir = "docs"
 
 [menu]
   [[menu.main]]
