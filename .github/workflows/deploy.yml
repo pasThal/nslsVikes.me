@@ -1,0 +1,29 @@
+name: Build and Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main  # Trigger the action only on pushes to the main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true  # Use Hugo Extended version
+
+      - name: Build the Hugo site
+        run: hugo -d docs
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs  # The directory where Hugo outputs the site
