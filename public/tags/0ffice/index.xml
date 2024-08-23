@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0ffice on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/0ffice/</link>
+    <description>Recent content in 0ffice on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 18:10:30 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/0ffice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My new post</title>
+      <link>http://localhost:1313/posts/my-new-post/</link>
+      <pubDate>Wed, 13 Jan 2021 18:10:30 +0600</pubDate>
+      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <description>consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&#xA;Make better business consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum.</description>
+    </item>
+  </channel>
+</rss>
