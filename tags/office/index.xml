@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Office on My New Hugo Site</title>
+    <link>https://example.org/tags/office/</link>
+    <description>Recent content in Office on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 18:30:40 +0600</lastBuildDate>
+    <atom:link href="https://example.org/tags/office/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Officel first post</title>
+      <link>https://example.org/posts/officel-first-post/</link>
+      <pubDate>Wed, 13 Jan 2021 18:30:40 +0600</pubDate>
+      <guid>https://example.org/posts/officel-first-post/</guid>
+      <description>consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&#xA;Make better business consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum.</description>
+    </item>
+    <item>
+      <title>Officel post</title>
+      <link>https://example.org/posts/officel-post/</link>
+      <pubDate>Wed, 13 Jan 2021 18:10:30 +0600</pubDate>
+      <guid>https://example.org/posts/officel-post/</guid>
+      <description>consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&#xA;Make better business consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores ea rebum.</description>
+    </item>
+  </channel>
+</rss>
